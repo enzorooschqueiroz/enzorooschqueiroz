@@ -1,5 +1,4 @@
-### Hello There 👋
-##
+## Hello There 👋
 - 🌱 Atualmente estou estudando HTML & Python
 ## Minhas Tecnologias :
 <div>
