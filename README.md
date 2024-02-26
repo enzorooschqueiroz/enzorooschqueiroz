@@ -1,8 +1,8 @@
 ## Hello There 👋
-- 👽 Garantindo um futuro com Desenvolvimento
-- 🌱 Atualmente estou estudando HTML & Python
+- 🌙 Garantindo um futuro com Desenvolvimento
+- 🐉 Atualmente estou estudando HTML & Python
 - 🕸️ Básico entendimento de Cibersecuriy
-- 🕸️"You don't have to be great to start, but you have to start to be great"
+- ⚡"You don't have to be great to start, but you have to start to be great"
 ## Minhas Tecnologias :
 <div>
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
