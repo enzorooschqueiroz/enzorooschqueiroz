@@ -2,8 +2,8 @@
 ##
 - 🌱 Atualmente estou estudando HTML & Python
 ##
-  <img height="180cm" src=https://github-readme-stats.vercel.app/api?username=enzorooschqueiroz&show_icons=true&theme=dark>  
-  <img height="180cm" src=https://github-readme-stats.vercel.app/api/top-langs/?username=enzorooschqueiroz&hide_progress=true&theme=dark>
+![Enzo Roosch's GitHub stats](https://github-readme-stats.vercel.app/api?username=enzorooschqueiroz&show_icons=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=dark)
 ##
 
 ### Minhas Tecnologias :
