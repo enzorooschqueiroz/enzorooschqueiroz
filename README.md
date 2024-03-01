@@ -26,5 +26,4 @@
 ## Análise de perfil
 <a href="https://github.com/enzorooschqueiroz">
 <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=enzorooschqueiroz&layout=compact&langs_count=7&theme=dark"/>
-[![GitHub Streak](https://streak-stats.demolab.com/?user=enzorooschqueiroz&theme=dark&locale=pt_BR&dates=FF5733&currStreakNum=FF5733&sideNums=C70039)](https://github.com/enzorooschqueiroz)
 
