@@ -1,6 +1,6 @@
 ## Hello There 👋
 - 🌙 Garantindo um futuro com Desenvolvimento
-- 🐉 Atualmente estou estudando HTML & Python
+- 🐉 Atualmente estou estudando Python e Programação Orientada a Objetos
 - 🕸️ Básico entendimento de Cibersecurity
 - ⚡"You don't have to be great to start, but you have to start to be great"
 ## Minhas Tecnologias :
