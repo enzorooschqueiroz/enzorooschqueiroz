@@ -33,23 +33,6 @@ currently: Kubernetes & GitOps
 ---
 
 ```bash
-enzo@sre:~$ kubectl get skills
-```
-```
-NAME                  STATUS    LEVEL
-kubernetes            Running   Growing
-docker                Running   Solid
-github-actions        Running   Solid
-aws / azure           Running   Solid
-python / flask        Running   Strong
-postgresql / mongodb  Running   Solid
-linux                 Running   Daily Driver
-penetration-testing   Running   Hands-on
-```
-
----
-
-```bash
 enzo@sre:~$ ls /stack/
 ```
 
@@ -72,19 +55,6 @@ enzo@sre:~$ ls /stack/
 ---
 
 ```bash
-enzo@sre:~$ git log --oneline
-```
-```
-a3f91c2 migrated monolith to microservices on K8s
-b7d04e1 added security scanning to CI pipeline
-c1e88a0 integrated Prometheus + Grafana dashboards
-d5a23f7 reduced deploy time 70% with GitOps
-e9b61c4 built zero-downtime blue/green pipeline
-```
-
----
-
-```bash
 enzo@sre:~$ cat connect.txt
 ```
 
@@ -94,8 +64,6 @@ enzo@sre:~$ cat connect.txt
 [![GitHub](https://img.shields.io/badge/-GitHub-%23181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/enzorooschqueiroz)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:enzoroosch@gmail.com)
 
-```bash
-while true; do learn; build; automate; ship; done
-```
+
 
 </div>
