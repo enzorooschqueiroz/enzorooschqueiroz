@@ -10,7 +10,7 @@
 ║    ███████╗██║ ╚████║███████╗╚██████╔╝                          ║
 ║    ╚══════╝╚═╝  ╚═══╝╚══════╝ ╚═════╝                           ║
 ║                                                                  ║
-║           D E V O P S  &  S R E              ║
+║              D E V O P S  &  S R E                              ║
 ╚══════════════════════════════════════════════════════════════════╝
 ```
 
@@ -23,6 +23,7 @@
 ```bash
 enzo@sre:~$ cat about.yaml
 ```
+
 ```yaml
 name: Enzo Christian Roosch Queiroz
 role: System Developer & SRE
@@ -55,6 +56,29 @@ enzo@sre:~$ ls /stack/
 ---
 
 ```bash
+enzo@sre:~$ cat portfolio.txt
+```
+
+```
+╔══════════════════════════════════════════════════════════════════╗
+║  $ ssh enzo@sre.dev                                             ║
+║                                                                  ║
+║  → experience  · work history & stack                           ║
+║  → projects    · HODOR, You-Shall-Not-DEPLOY & more             ║
+║  → shell       · interactive terminal inside the site           ║
+║  → contact     · schedule a 30-min call                         ║
+╚══════════════════════════════════════════════════════════════════╝
+```
+
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/enzo--roosch--queiroz.web.app-%2300FF88?style=for-the-badge&logo=firefox&logoColor=black)](https://enzo-roosch-queiroz-devops.web.app/)
+
+</div>
+
+---
+
+```bash
 enzo@sre:~$ cat connect.txt
 ```
 
@@ -63,7 +87,5 @@ enzo@sre:~$ cat connect.txt
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/enzo-roosch-queiroz/)
 [![GitHub](https://img.shields.io/badge/-GitHub-%23181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/enzorooschqueiroz)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:enzoroosch@gmail.com)
-
-
 
 </div>
