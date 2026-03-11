@@ -1,57 +1,101 @@
-# Hello There! 👋
-
-I'm **Enzo Christian Roosch Queiroz**, a **System Developer** and **SRE** passionate about automation and security.  
-I love turning ideas into efficient and secure solutions using modern tech stacks. 🚀
-
----
-
-## 🌟 About Me
-- 🌱 Growing my expertise in **Kubernetes** and expanding my skills in **DevOps**.
-- 🛡️ Enthusiast of **Cybersecurity** with hands-on experience in penetration testing.
-- 🎯 Focused on **Full-Stack Development** and **Cloud Infrastructure**.
-- 💡 *"You don't have to be great to start, but you have to start to be great."*
-
----
-
-## 🛠️ Technologies & Tools
-
 <div align="center">
-  <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue">
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white">
-  <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white">
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white">
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white">
-  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white">
-  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white">
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
-  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white">
-  <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white">
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-  <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
+
+```
+╔══════════════════════════════════════════════════════════════════╗
+║                                                                  ║
+║    ███████╗███╗   ██╗███████╗ ██████╗                           ║
+║    ██╔════╝████╗  ██║╚══███╔╝██╔═══██╗                          ║
+║    █████╗  ██╔██╗ ██║  ███╔╝ ██║   ██║                          ║
+║    ██╔══╝  ██║╚██╗██║ ███╔╝  ██║   ██║                          ║
+║    ███████╗██║ ╚████║███████╗╚██████╔╝                          ║
+║    ╚══════╝╚═╝  ╚═══╝╚══════╝ ╚═════╝                           ║
+║                                                                  ║
+║           D E V O P S  &  S R E              ║
+╚══════════════════════════════════════════════════════════════════╝
+```
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1200&color=00FF88&center=true&vCenter=true&width=560&lines=Infrastructure+as+Code.;Kubernetes+%7C+Docker+%7C+CI%2FCD.;Automate+everything.+Monitor+everything.;Ship+fast.+Recover+faster.)](https://git.io/typing-svg)
+
 </div>
 
 ---
 
-## 🌐 Let's Connect!
+```bash
+enzo@sre:~$ cat about.yaml
+```
+```yaml
+name: Enzo Christian Roosch Queiroz
+role: System Developer & SRE
+focus: [ DevOps, Cloud Infrastructure, SRE, Cybersecurity ]
+currently: Kubernetes & GitOps
+```
+
+---
+
+```bash
+enzo@sre:~$ kubectl get skills
+```
+```
+NAME                  STATUS    LEVEL
+kubernetes            Running   Growing
+docker                Running   Solid
+github-actions        Running   Solid
+aws / azure           Running   Solid
+python / flask        Running   Strong
+postgresql / mongodb  Running   Solid
+linux                 Running   Daily Driver
+penetration-testing   Running   Hands-on
+```
+
+---
+
+```bash
+enzo@sre:~$ ls /stack/
+```
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/enzo-roosch-queiroz/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
-  <a href="https://github.com/enzorooschqueiroz" target="_blank">
-    <img src="https://img.shields.io/badge/-GitHub-%23181717?style=for-the-badge&logo=github&logoColor=white">
-  </a>
-  <a href="mailto:enzoroosch@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-  </a>
+
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+
 </div>
 
 ---
 
-✨ I'm always eager to learn and take on new challenges.  
-Feel free to reach out if you'd like to collaborate or have any opportunities that align with my skills! 🚀
+```bash
+enzo@sre:~$ git log --oneline
+```
+```
+a3f91c2 migrated monolith to microservices on K8s
+b7d04e1 added security scanning to CI pipeline
+c1e88a0 integrated Prometheus + Grafana dashboards
+d5a23f7 reduced deploy time 70% with GitOps
+e9b61c4 built zero-downtime blue/green pipeline
+```
 
+---
 
+```bash
+enzo@sre:~$ cat connect.txt
+```
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/enzo-roosch-queiroz/)
+[![GitHub](https://img.shields.io/badge/-GitHub-%23181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/enzorooschqueiroz)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:enzoroosch@gmail.com)
+
+```bash
+while true; do learn; build; automate; ship; done
+```
+
+</div>
