@@ -72,10 +72,9 @@ enzo@sre:~$ cat portfolio.txt
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/enzo--roosch--queiroz.web.app-%2300FF88?style=for-the-badge&logo=firefox&logoColor=black)](https://enzo-roosch-queiroz-devops.web.app/)
+[![Portfolio](https://img.shields.io/badge/enzo--roosch--queiroz.web.app-0A0A0A?style=for-the-badge&logo=firefox&logoColor=white)](https://enzo-roosch-queiroz-devops.web.app/)
 
 </div>
-
 ---
 
 ```bash
